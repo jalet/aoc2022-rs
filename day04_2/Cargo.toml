@@ -1,0 +1,10 @@
+[package]
+name = "day04_2"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+[[bin]]
+name = "aoc2022rs_d04_2"
